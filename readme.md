@@ -35,11 +35,3 @@ coindex check --coin=BTC,ETH
 # Choose Currency (Default: USD)
 coindex check --cur=EUR
 ```
-
-### Version
-
-1.0.0
-
-### License
-
-MIT
